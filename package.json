@@ -1,0 +1,28 @@
+{
+  "name": "cloud-computing-nodejs-azure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matei97/cloud-computing-nodejs-azure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matei97/cloud-computing-nodejs-azure/issues"
+  },
+  "homepage": "https://github.com/matei97/cloud-computing-nodejs-azure#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
